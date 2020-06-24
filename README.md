@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to ML/DL/RL Pages
 
-You can use the [editor on GitHub](https://github.com/KARAMKIM88/karamkim88.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+ML과 Robotics에 관심있는 두명이 모여서 만든 페이지 입니다.
+최신 논문도 리뷰하고 코드도 올려서 공유하고자 합니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
