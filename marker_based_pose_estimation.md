@@ -1,40 +1,12 @@
-## Welcome to ML/DL/RL Pages
+## Camera Pose Estimation Using Fiducal Marker
 
-ML과 Robotics에 관심있는 두명이 모여서 만든 페이지 입니다.
-최신 논문도 리뷰하고 코드도 올려서 공유하고자 합니다.
+Camera Pose를 알면 다양한 Application을 만들수가 있습니다. 일단 AR도 할수 있고 Visual Servoing도 할 수 있습니다.
+관련한 분야는 많이 과거와 현재 많이 연구를 하고 있는데 을 하는데 있어서 다양한 마커가 많이 사용되는데요. 찾아보니 Fiducial Marker라고 합니다.
+아래과 같이 생겼습니다.
+(./img/fiducial_marker.png)
+image from - https://www.researchgate.net/figure/Examples-of-fiducial-markers-proposed-in-previous-works_fig2_260251570
 
-##Articles
-[CVPR paper Review](https://karamkim88.github.io/CVPR_2020.html) 
 
 
-### Subject
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KARAMKIM88/karamkim88.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
