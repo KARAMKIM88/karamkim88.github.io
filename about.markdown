@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-ML과 Robotics에 관심있는 두명이 모여서 만든 페이지 입니다.
-
-
-최신 논문도 리뷰하고 코드도 올려서 공유하고자 합니다.
+ML을 기반으로 하는 Application에 관심이 많은 처자입니다.
+지금은 PC에서 만든 GAN을 mobile device에서 돌아가게 하는 플젝을 하고 있습니다^^
 
